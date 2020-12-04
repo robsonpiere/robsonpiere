@@ -41,6 +41,11 @@
 - [Ahhhh Como eu queria uma coxinha 🍗🤪😂](https://strava.com/activities/4391162974)
 - [Travou novamente 😔](https://strava.com/activities/4354732265)
 - [unit test of the brakes ✅](https://strava.com/activities/4345327645)
+- [Strava travou🐞🐞🐞🐞🐞(32km)](https://strava.com/activities/4316481144)
+- [Running in internet Explorer 🏃🏽🐌🐢](https://strava.com/activities/4304595520)
+- [from feriado import pedal 🚴🐍](https://strava.com/activities/4275946099)
+- [Pedalada recursiva  🚴(🚴(🚴))](https://strava.com/activities/4256740969)
+- [NullPointerException 🐞](https://strava.com/activities/4247844647)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
