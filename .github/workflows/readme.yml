@@ -25,5 +25,4 @@ jobs:
          comment_tag_name: STRAVA-POST-LIST
          commit_message: "Automatic update Strava activities list"
          max_post_count: 5
-         template: '- <a href="$url">$title</a> $newline'
 
