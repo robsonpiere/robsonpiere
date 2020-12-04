@@ -27,7 +27,7 @@
 <details>
   <summary><b>Latest posts on Dev.to ⌨👨🏽‍💻 :brazil:</b>(click here)</summary>
   
-<!-- DEVTO-POST-LIST:START -->
+<!-- DEVTO-POST-LIST:START -->- <a href="https://dev.to/robsonpiere/participei-da-hacktoberfest-e-plantei-uma-arvore-4ngj">Participei da Hacktoberfest e plantei uma árvore 🌳</a> 
 <!-- DEVTO-POST-LIST:END -->
 </details>
 
