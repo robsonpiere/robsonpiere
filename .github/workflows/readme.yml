@@ -24,7 +24,6 @@ jobs:
          feed_list: ${{ secrets.STRAVA_FEED }}
          comment_tag_name: STRAVA-POST-LIST
          commit_message: "Automatic update Strava activities list"
-         max_post_count: 10
-         date_format: 'mm/dd/yyyy'
-         template: '- <a href="$url">$title</a> $date $newline'
+         max_post_count: 5
+         template: '- <a href="$url">$title</a> $newline'
 
