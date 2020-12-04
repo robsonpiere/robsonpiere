@@ -17,7 +17,7 @@ jobs:
          comment_tag_name: STRAVA-POST-LIST
          commit_message: "Automatic update Strava activities list"
          max_post_count: 10
-         date_format: paddedShortDate
+         date_format: 'mm/dd/yyyy'
          template: '- <a href="$url">$title</a> $date $newline'
      - name: Update Devto
        uses: gautamkrishnar/blog-post-workflow@master
@@ -26,5 +26,4 @@ jobs:
          comment_tag_name: DEVTO-POST-LIST
          commit_message: "Automatic update Dev.to posts list"
          max_post_count: 10
-         date_format: paddedShortDate
          template: '- <a href="$url">$title</a>$newline'
