@@ -6,10 +6,18 @@ on:
 jobs:
   update_readme:
    name: "update Readme"
-   runs-on: ubuntu-latest
+   runs-on: ubuntu-20.04
    steps:
      - name: Checkout
        uses: actions/checkout@v2
+     - name: Update Devto
+       uses: gautamkrishnar/blog-post-workflow@master
+       with:
+         feed_list: ${{ secrets.DEVTO_FEED }}
+         comment_tag_name: DEVTO-POST-LIST
+         commit_message: "Automatic update Dev.to posts list"
+         max_post_count: 10
+         template: '- <a href="$url">$title</a> $newline'
      - name: Update Strava
        uses: gautamkrishnar/blog-post-workflow@master
        with:
@@ -19,11 +27,4 @@ jobs:
          max_post_count: 10
          date_format: 'mm/dd/yyyy'
          template: '- <a href="$url">$title</a> $date $newline'
-     - name: Update Devto
-       uses: gautamkrishnar/blog-post-workflow@master
-       with:
-         feed_list: ${{ secrets.DEVTO_FEED }}
-         comment_tag_name: DEVTO-POST-LIST
-         commit_message: "Automatic update Dev.to posts list"
-         max_post_count: 10
-         template: '- <a href="$url">$title</a>$newline'
+
