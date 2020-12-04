@@ -1,0 +1,30 @@
+name: Update posts
+on:
+  workflow_dispatch:
+  schedule: 
+  - cron: "0 12 * * 1,3,5" 
+jobs:
+  update_readme:
+   name: "update Readme"
+   runs-on: ubuntu-latest
+   steps:
+     - name: Checkout
+       uses: actions/checkout@v2
+     - name: Update Strava
+       uses: gautamkrishnar/blog-post-workflow@master
+       with:
+         feed_list: ${{ secrets.STRAVA_FEED }}
+         comment_tag_name: STRAVA-POST-LIST
+         commit_message: "Automatic update Strava activities list"
+         max_post_count: 10
+         date_format: paddedShortDate
+         template: '- <a href="$url">$title</a> $date $newline'
+     - name: Update Devto
+       uses: gautamkrishnar/blog-post-workflow@master
+       with:
+         feed_list: ${{ secrets.DEVTO_FEED }}
+         comment_tag_name: DEVTO-POST-LIST
+         commit_message: "Automatic update Dev.to posts list"
+         max_post_count: 10
+         date_format: paddedShortDate
+         template: '- <a href="$url">$title</a>$newline'
