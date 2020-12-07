@@ -36,6 +36,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Passeio com a esposa 🚴‍♂️🚴‍♀️](https://strava.com/activities/4438009873)
 - [Pedalada matinal (sexta é dia de fazer deploy 👩🏽‍💻 ☠!!!)](https://strava.com/activities/4427853912)
 - [Pedalada matinal (32 km) 🐛](https://strava.com/activities/4419651238)
 - [Ahhhh Como eu queria uma coxinha 🍗🤪😂](https://strava.com/activities/4391162974)
@@ -45,7 +46,6 @@
 - [Running in internet Explorer 🏃🏽🐌🐢](https://strava.com/activities/4304595520)
 - [from feriado import pedal 🚴🐍](https://strava.com/activities/4275946099)
 - [Pedalada recursiva  🚴(🚴(🚴))](https://strava.com/activities/4256740969)
-- [NullPointerException 🐞](https://strava.com/activities/4247844647)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
