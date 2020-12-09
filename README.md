@@ -36,6 +36,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Preciso recalibrar meu GPS 🐞](https://strava.com/activities/4445910916)
 - [Passeio com a esposa 🚴‍♂️🚴‍♀️](https://strava.com/activities/4438009873)
 - [Pedalada matinal (sexta é dia de fazer deploy 👩🏽‍💻 ☠!!!)](https://strava.com/activities/4427853912)
 - [Pedalada matinal (32 km) 🐛](https://strava.com/activities/4419651238)
@@ -45,7 +46,6 @@
 - [Strava travou🐞🐞🐞🐞🐞(32km)](https://strava.com/activities/4316481144)
 - [Running in internet Explorer 🏃🏽🐌🐢](https://strava.com/activities/4304595520)
 - [from feriado import pedal 🚴🐍](https://strava.com/activities/4275946099)
-- [Pedalada recursiva  🚴(🚴(🚴))](https://strava.com/activities/4256740969)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
