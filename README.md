@@ -36,6 +36,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Pneu Furou 🚴‍♂️💨💸😅](https://strava.com/activities/4530071063)
 - [O paradoxo do caldo de cana 🥤🚴‍♂️🥥🚴‍♀️](https://strava.com/activities/4468159214)
 - [Preciso recalibrar meu GPS 🐞](https://strava.com/activities/4445910916)
 - [Passeio com a esposa 🚴‍♂️🚴‍♀️](https://strava.com/activities/4438009873)
@@ -45,7 +46,6 @@
 - [Travou novamente 😔](https://strava.com/activities/4354732265)
 - [unit test of the brakes ✅](https://strava.com/activities/4345327645)
 - [Strava travou🐞🐞🐞🐞🐞(32km)](https://strava.com/activities/4316481144)
-- [Running in internet Explorer 🏃🏽🐌🐢](https://strava.com/activities/4304595520)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
