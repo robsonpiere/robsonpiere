@@ -36,6 +36,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Desafio "Sol" Silvestre ☀️🌡️🥵 🏃](https://strava.com/activities/4544167790)
+- [O último Jedi, digo pedal de 2020... 🚀🚴‍♂️](https://strava.com/activities/4539226841)
 - [Pneu Furou 🚴‍♂️💨💸😅](https://strava.com/activities/4530071063)
 - [O paradoxo do caldo de cana 🥤🚴‍♂️🥥🚴‍♀️](https://strava.com/activities/4468159214)
 - [Preciso recalibrar meu GPS 🐞](https://strava.com/activities/4445910916)
@@ -44,8 +46,6 @@
 - [Pedalada matinal (32 km) 🐛](https://strava.com/activities/4419651238)
 - [Ahhhh Como eu queria uma coxinha 🍗🤪😂](https://strava.com/activities/4391162974)
 - [Travou novamente 😔](https://strava.com/activities/4354732265)
-- [unit test of the brakes ✅](https://strava.com/activities/4345327645)
-- [Strava travou🐞🐞🐞🐞🐞(32km)](https://strava.com/activities/4316481144)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
