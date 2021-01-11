@@ -36,6 +36,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [👨‍💻 C - 1972 - Dennis Ritchie 🚴](https://strava.com/activities/4602591831)
 - [GPS "sextou" trollando 🐞🥲](https://strava.com/activities/4585805368)
 - [Aquecimento antes de voltar ao trabalho 👨‍💻🚴](https://strava.com/activities/4564818700)
 - [Teste bike fit 🚴‍♂️🌧️](https://strava.com/activities/4557273574)
@@ -45,7 +46,6 @@
 - [O paradoxo do caldo de cana 🥤🚴‍♂️🥥🚴‍♀️](https://strava.com/activities/4468159214)
 - [Preciso recalibrar meu GPS 🐞](https://strava.com/activities/4445910916)
 - [Passeio com a esposa 🚴‍♂️🚴‍♀️](https://strava.com/activities/4438009873)
-- [Pedalada matinal (sexta é dia de fazer deploy 👩🏽‍💻 ☠!!!)](https://strava.com/activities/4427853912)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
