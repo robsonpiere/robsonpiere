@@ -36,6 +36,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [👨🏽‍💻🐘 PHP - 1995 - Rasmus Lerdorf 🚴🏾‍♂️](https://strava.com/activities/4623263446)
 - [👨‍💻☕ Java - 1995 - James Gosling / Sun Microsystems 🚴🏼‍♂️](https://strava.com/activities/4613078925)
 - [👨‍💻 C - 1972 - Dennis Ritchie 🚴](https://strava.com/activities/4602591831)
 - [GPS "sextou" trollando 🐞🥲](https://strava.com/activities/4585805368)
@@ -45,7 +46,6 @@
 - [O último Jedi, digo pedal de 2020... 🚀🚴‍♂️](https://strava.com/activities/4539226841)
 - [Pneu Furou 🚴‍♂️💨💸😅](https://strava.com/activities/4530071063)
 - [O paradoxo do caldo de cana 🥤🚴‍♂️🥥🚴‍♀️](https://strava.com/activities/4468159214)
-- [Preciso recalibrar meu GPS 🐞](https://strava.com/activities/4445910916)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
