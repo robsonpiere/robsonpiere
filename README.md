@@ -36,6 +36,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [👨🏻‍💻🐍 Python - 1991 - Guido van Rossum 🚴🏽](https://strava.com/activities/4640283199)
+- [🎬🚀 I am you father ! - Star Wars - 1980 🏃](https://strava.com/activities/4634396238)
 - [👨🏽‍💻🐘 PHP - 1995 - Rasmus Lerdorf 🚴🏾‍♂️](https://strava.com/activities/4623263446)
 - [👨‍💻☕ Java - 1995 - James Gosling / Sun Microsystems 🚴🏼‍♂️](https://strava.com/activities/4613078925)
 - [👨‍💻 C - 1972 - Dennis Ritchie 🚴](https://strava.com/activities/4602591831)
@@ -44,8 +46,6 @@
 - [Teste bike fit 🚴‍♂️🌧️](https://strava.com/activities/4557273574)
 - [Desafio "Sol" Silvestre ☀️🌡️🥵 🏃](https://strava.com/activities/4544167790)
 - [O último Jedi, digo pedal de 2020... 🚀🚴‍♂️](https://strava.com/activities/4539226841)
-- [Pneu Furou 🚴‍♂️💨💸😅](https://strava.com/activities/4530071063)
-- [O paradoxo do caldo de cana 🥤🚴‍♂️🥥🚴‍♀️](https://strava.com/activities/4468159214)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
