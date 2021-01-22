@@ -36,6 +36,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [©️ 👨🏻‍💻 C# - 2000 - Microsoft 🚴🏿](https://strava.com/activities/4661157837)
 - [🧢 Foi sem querer querendo... 🚶‍♂️](https://strava.com/activities/4650919869)
 - [Passeio com a esposa 🚴🏽🚴🏾‍♀️](https://strava.com/activities/4644153280)
 - [👨🏻‍💻🐍 Python - 1991 - Guido van Rossum 🚴🏽](https://strava.com/activities/4640283199)
@@ -45,7 +46,6 @@
 - [👨‍💻 C - 1972 - Dennis Ritchie 🚴](https://strava.com/activities/4602591831)
 - [GPS "sextou" trollando 🐞🥲](https://strava.com/activities/4585805368)
 - [Aquecimento antes de voltar ao trabalho 👨‍💻🚴](https://strava.com/activities/4564818700)
-- [Teste bike fit 🚴‍♂️🌧️](https://strava.com/activities/4557273574)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
