@@ -36,6 +36,9 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [📺 Você disse pipoca quente na manteiga? 🚶](https://strava.com/activities/4678060221)
+- [👨🏻‍💻💎 Ruby - 1995 -	Yukihiro Matsumoto 🚴‍♂️](https://strava.com/activities/4673136693)
+- [Ela & Eu 🚴🏽‍♀️🚴🏼‍♂️](https://strava.com/activities/4669377459)
 - [©️ 👨🏻‍💻 C# - 2000 - Microsoft 🚴🏿](https://strava.com/activities/4661157837)
 - [🧢 Foi sem querer querendo... 🚶‍♂️](https://strava.com/activities/4650919869)
 - [Passeio com a esposa 🚴🏽🚴🏾‍♀️](https://strava.com/activities/4644153280)
@@ -43,9 +46,6 @@
 - [🎬🚀 I am you father ! - Star Wars - 1980 🏃](https://strava.com/activities/4634396238)
 - [👨🏽‍💻🐘 PHP - 1995 - Rasmus Lerdorf 🚴🏾‍♂️](https://strava.com/activities/4623263446)
 - [👨‍💻☕ Java - 1995 - James Gosling / Sun Microsystems 🚴🏼‍♂️](https://strava.com/activities/4613078925)
-- [👨‍💻 C - 1972 - Dennis Ritchie 🚴](https://strava.com/activities/4602591831)
-- [GPS "sextou" trollando 🐞🥲](https://strava.com/activities/4585805368)
-- [Aquecimento antes de voltar ao trabalho 👨‍💻🚴](https://strava.com/activities/4564818700)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
