@@ -36,6 +36,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Pampulha - 4 voltas](https://strava.com/activities/4705309962)
 - [I’ll be Back.](https://strava.com/activities/4698950440)
 - [Primeiros 400km em um mês 🙌](https://strava.com/activities/4694104626)
 - [🦫 Go - 2009](https://strava.com/activities/4690145172)
@@ -45,7 +46,6 @@
 - [©️ C# - 2000](https://strava.com/activities/4661157837)
 - [🧢 Foi sem querer querendo... 🚶‍♂️](https://strava.com/activities/4650919869)
 - [Passeio com a esposa 🚴🏽🚴🏾‍♀️](https://strava.com/activities/4644153280)
-- [🐍 Python - 1991](https://strava.com/activities/4640283199)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
