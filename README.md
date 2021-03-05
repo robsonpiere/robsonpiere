@@ -36,6 +36,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Pedalada matinal](https://strava.com/activities/4887874012)
+- [Caminhada ao entardecer](https://strava.com/activities/4880409985)
 - [Pedalada matinal](https://strava.com/activities/4865808536)
 - [Pampulha bem cedo 🌄](https://strava.com/activities/4840182692)
 - [Caminhada vespertina](https://strava.com/activities/4804309003)
@@ -44,8 +46,6 @@
 - [Primeiros 400km em um mês 🙌](https://strava.com/activities/4694104626)
 - [🦫 Go - 2009](https://strava.com/activities/4690145172)
 - [📺 Você disse pipoca quente na manteiga? 🚶](https://strava.com/activities/4678060221)
-- [💎 Ruby - 1995](https://strava.com/activities/4673136693)
-- [Ela & Eu 🚴🏽‍♀️🚴🏼‍♂️](https://strava.com/activities/4669377459)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
