@@ -36,6 +36,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Fui ali buscar suprimentos pro Coelho 🐰](https://strava.com/activities/5061485829)
 - [Caminhada ao entardecer](https://strava.com/activities/5034057932)
 - [Pedalada matinal](https://strava.com/activities/4923019796)
 - [Desafio dos 50km - Março](https://strava.com/activities/4900074265)
@@ -45,7 +46,6 @@
 - [Pampulha bem cedo 🌄](https://strava.com/activities/4840182692)
 - [Caminhada vespertina](https://strava.com/activities/4804309003)
 - [Pampulha - 4 voltas](https://strava.com/activities/4705309962)
-- [I’ll be Back.](https://strava.com/activities/4698950440)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
