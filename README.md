@@ -36,16 +36,16 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [1% Better - dia 11](https://strava.com/activities/5153624515)
+- [1% Better - dia 10](https://strava.com/activities/5152440333)
+- [1% Better - dia 9](https://strava.com/activities/5143656869)
+- [1% Better - dia 9](https://strava.com/activities/5138898010)
 - [1% Better - Dia perdido por 9 segundos 🙄](https://strava.com/activities/5134147745)
 - [1% Better - Dia 7](https://strava.com/activities/5128814110)
 - [1% Better - Dia 6](https://strava.com/activities/5116402926)
 - [1% Better - Dia 5](https://strava.com/activities/5111812030)
 - [1% Better - Dia 4](https://strava.com/activities/5095242069)
 - [1% Better - Dia 3](https://strava.com/activities/5093788565)
-- [Desafio 1% - Dia 2](https://strava.com/activities/5087944295)
-- [Desafio 1% dia 1](https://strava.com/activities/5076324874)
-- [Fui ali buscar suprimentos pro Coelho 🐰](https://strava.com/activities/5061485829)
-- [Caminhada ao entardecer](https://strava.com/activities/5034057932)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
