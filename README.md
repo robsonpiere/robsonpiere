@@ -37,6 +37,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [1% Better - Dia 16](https://strava.com/activities/5206383988)
 - [1% Better - Dia 15](https://strava.com/activities/5191307629)
 - [1% Better - dia 14](https://strava.com/activities/5186534697)
 - [1% Better - dia 13](https://strava.com/activities/5177741126)
@@ -46,7 +47,6 @@
 - [1% Better - dia 11](https://strava.com/activities/5153624515)
 - [1% Better - dia 10](https://strava.com/activities/5152440333)
 - [1% Better - dia 9](https://strava.com/activities/5143656869)
-- [1% Better - dia 8](https://strava.com/activities/5138898010)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
