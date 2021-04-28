@@ -28,6 +28,7 @@
   <summary><b>Latest posts on Dev.to ⌨👨🏽‍💻 :brazil:</b>(click here)</summary>
   
 <!-- DEVTO-POST-LIST:START -->
+- [Mapa Personalizado no Strava: #statmaps](https://dev.to/robsonpiere/mapa-personalizado-no-strava-statmaps-259l)
 - [Participei da Hacktoberfest e plantei uma árvore 🌳](https://dev.to/robsonpiere/participei-da-hacktoberfest-e-plantei-uma-arvore-4ngj)
 <!-- DEVTO-POST-LIST:END -->
 </details>
