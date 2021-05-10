@@ -38,6 +38,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Pampulha 3x](https://strava.com/activities/5268535381)
 - [1% - Better  - Finish Him 🐉](https://strava.com/activities/5230043982)
 - [1% Better - Penúltimo dia](https://strava.com/activities/5222891918)
 - [1% Better - dia 18 🥶](https://strava.com/activities/5217261615)
@@ -47,7 +48,6 @@
 - [1% Better - dia 14](https://strava.com/activities/5186534697)
 - [1% Better - dia 13](https://strava.com/activities/5177741126)
 - [1% Better - dia 12](https://strava.com/activities/5166170787)
-- [Voltei a pé 🙄](https://strava.com/activities/5157086583)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
