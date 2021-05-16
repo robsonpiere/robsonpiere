@@ -12,6 +12,11 @@
 ### About me ###
 
 - 👨‍💻 I am currently Working as Developer Analyst at [Sesc em Minas Gerais](https://www.linkedin.com/company/sesc-em-minas-gerais/), developing internal solutions, integrations, automations and working on the definition of software architecture and environment. I am also responsible for seeking solutions for innovation / transformation / internal improvement.
+- I currently work with
+    - PHP, Lumen, Codigniter, Slim, Laravel
+    - Python, Flask
+    - JS, Angular JS, Ionic
+    - SqlServer, Mysql, IBM DB2, Redis
 - 🤓 I’m currently learning:
     - Python, Flask, Django;
     - AI, ML and Big Data.
