@@ -43,6 +43,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Giro com mestre  GP](https://strava.com/activities/5322630664)
 - [Giro leve com ela ♥️](https://strava.com/activities/5302696734)
 - [Pampulha 3x](https://strava.com/activities/5268535381)
 - [1% - Better  - Finish Him 🐉](https://strava.com/activities/5230043982)
@@ -52,7 +53,6 @@
 - [1% Better - Dia 16](https://strava.com/activities/5206383988)
 - [1% Better - Dia 15](https://strava.com/activities/5191307629)
 - [1% Better - dia 14](https://strava.com/activities/5186534697)
-- [1% Better - dia 13](https://strava.com/activities/5177741126)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
