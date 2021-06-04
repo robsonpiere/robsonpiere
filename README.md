@@ -43,6 +43,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Debugando o pedal 🚴](https://strava.com/activities/5406877794)
 - [Mattina in bicicletta](https://strava.com/activities/5360310356)
 - [Giro com mestre  GP](https://strava.com/activities/5322630664)
 - [Giro leve com ela ♥️](https://strava.com/activities/5302696734)
@@ -52,7 +53,6 @@
 - [1% Better - dia 18 🥶](https://strava.com/activities/5217261615)
 - [1% Better - dia 17](https://strava.com/activities/5212153305)
 - [1% Better - Dia 16](https://strava.com/activities/5206383988)
-- [1% Better - Dia 15](https://strava.com/activities/5191307629)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
