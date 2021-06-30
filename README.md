@@ -43,6 +43,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Pedalada matinal](https://strava.com/activities/5552574903)
 - [Pedal surpresa](https://strava.com/activities/5502349765)
 - [Debugando o pedal 🚴](https://strava.com/activities/5406877794)
 - [Mattina in bicicletta](https://strava.com/activities/5360310356)
@@ -52,7 +53,6 @@
 - [1% - Better  - Finish Him 🐉](https://strava.com/activities/5230043982)
 - [1% Better - Penúltimo dia](https://strava.com/activities/5222891918)
 - [1% Better - dia 18 🥶](https://strava.com/activities/5217261615)
-- [1% Better - dia 17](https://strava.com/activities/5212153305)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
