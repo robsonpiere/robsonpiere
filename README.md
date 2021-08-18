@@ -43,6 +43,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [A caminhada da vacina 💉](https://strava.com/activities/5807601347)
 - [1° Pedal do Alagoas ✌️](https://strava.com/activities/5797069041)
 - [Pedalada matinal](https://strava.com/activities/5552574903)
 - [Pedal surpresa](https://strava.com/activities/5502349765)
@@ -52,7 +53,6 @@
 - [Giro leve com ela ♥️](https://strava.com/activities/5302696734)
 - [Pampulha 3x](https://strava.com/activities/5268535381)
 - [1% - Better  - Finish Him 🐉](https://strava.com/activities/5230043982)
-- [1% Better - Penúltimo dia](https://strava.com/activities/5222891918)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
