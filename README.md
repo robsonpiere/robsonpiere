@@ -43,6 +43,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Caminhada ao entardecer](https://strava.com/activities/5961866687)
+- [Pelotão da Madrugada](https://strava.com/activities/5957831672)
 - [Caminhada matinal](https://strava.com/activities/5914464444)
 - [A caminhada da vacina 💉](https://strava.com/activities/5807601347)
 - [1° Pedal do Alagoas ✌️](https://strava.com/activities/5797069041)
@@ -51,8 +53,6 @@
 - [Debugando o pedal 🚴](https://strava.com/activities/5406877794)
 - [Mattina in bicicletta](https://strava.com/activities/5360310356)
 - [Giro com mestre  GP](https://strava.com/activities/5322630664)
-- [Giro leve com ela ♥️](https://strava.com/activities/5302696734)
-- [Pampulha 3x](https://strava.com/activities/5268535381)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
