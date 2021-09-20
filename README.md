@@ -43,6 +43,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [3x com ela 🥰](https://strava.com/activities/5986178098)
 - [Pedal com clima de deserto 🌡️🥵](https://strava.com/activities/5968630280)
 - [Caminhada ao entardecer](https://strava.com/activities/5961866687)
 - [Pelotão da Madrugada](https://strava.com/activities/5957831672)
@@ -52,7 +53,6 @@
 - [Pedalada matinal](https://strava.com/activities/5552574903)
 - [Pedal surpresa](https://strava.com/activities/5502349765)
 - [Debugando o pedal 🚴](https://strava.com/activities/5406877794)
-- [Mattina in bicicletta](https://strava.com/activities/5360310356)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
