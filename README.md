@@ -43,6 +43,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Pedal da madrugada](https://strava.com/activities/6031472770)
 - [Pedal de Domingo com ela.](https://strava.com/activities/6023316409)
 - [Natação na hora do almoço](https://strava.com/activities/6017643465)
 - [Pedalada matinal](https://strava.com/activities/6005478240)
@@ -52,7 +53,6 @@
 - [Caminhada ao entardecer](https://strava.com/activities/5961866687)
 - [Pelotão da Madrugada](https://strava.com/activities/5957831672)
 - [Caminhada matinal](https://strava.com/activities/5914464444)
-- [A caminhada da vacina 💉](https://strava.com/activities/5807601347)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
