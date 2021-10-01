@@ -43,6 +43,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Natação ao entardecer](https://strava.com/activities/6045034371)
+- [Pedalada matinal](https://strava.com/activities/6041709060)
 - [Pedal da madrugada](https://strava.com/activities/6031472770)
 - [Pedal de Domingo com ela.](https://strava.com/activities/6023316409)
 - [Natação na hora do almoço](https://strava.com/activities/6017643465)
@@ -51,8 +53,6 @@
 - [3x com ela 🥰](https://strava.com/activities/5986178098)
 - [Pedal com clima de deserto 🌡️🥵](https://strava.com/activities/5968630280)
 - [Caminhada ao entardecer](https://strava.com/activities/5961866687)
-- [Pelotão da Madrugada](https://strava.com/activities/5957831672)
-- [Caminhada matinal](https://strava.com/activities/5914464444)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
