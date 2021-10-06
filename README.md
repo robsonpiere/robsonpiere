@@ -43,6 +43,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [3,03 % - #NQSF](https://strava.com/activities/6066336322)
 - [Natação ao entardecer](https://strava.com/activities/6045034371)
 - [Pedalada matinal](https://strava.com/activities/6041709060)
 - [Pedal da madrugada](https://strava.com/activities/6031472770)
@@ -52,7 +53,6 @@
 - [Pedalada matinal](https://strava.com/activities/5994745479)
 - [3x com ela 🥰](https://strava.com/activities/5986178098)
 - [Pedal com clima de deserto 🌡️🥵](https://strava.com/activities/5968630280)
-- [Caminhada ao entardecer](https://strava.com/activities/5961866687)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
