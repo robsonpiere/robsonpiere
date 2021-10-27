@@ -43,6 +43,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [20% - RP bateu na Trave!](https://strava.com/activities/6173011162)
+- [17%](https://strava.com/activities/6168075660)
 - [14%](https://strava.com/activities/6163742104)
 - [Aprendendo a andar na terra 😅](https://strava.com/activities/6159687525)
 - [Pedalada ao entardecer](https://strava.com/activities/6148015306)
@@ -51,8 +53,6 @@
 - [6% -  Com Chuva e Vento 🌧️🌬️](https://strava.com/activities/6076297531)
 - [3,03 % - #NQSF](https://strava.com/activities/6066336322)
 - [Natação ao entardecer](https://strava.com/activities/6045034371)
-- [Pedalada matinal](https://strava.com/activities/6041709060)
-- [Pedal da madrugada](https://strava.com/activities/6031472770)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
