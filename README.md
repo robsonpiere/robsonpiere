@@ -43,8 +43,9 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
-- [Invillia Running - Giro 3](https://strava.com/activities/6205637651)
-- [Invillia Running - Giro 2](https://strava.com/activities/6201803964)
+- [Invillia Running - #4](https://strava.com/activities/6210140959)
+- [Invillia Running -  #3](https://strava.com/activities/6205637651)
+- [Invillia Running - #2](https://strava.com/activities/6201803964)
 - [Invillia Running Valendo!!!!](https://strava.com/activities/6188530622)
 - [20% - RP bateu na Trave!](https://strava.com/activities/6173011162)
 - [17%](https://strava.com/activities/6168075660)
@@ -52,7 +53,6 @@
 - [Aprendendo a andar na terra 😅](https://strava.com/activities/6159687525)
 - [Pedalada ao entardecer](https://strava.com/activities/6148015306)
 - [Natação vespertina](https://strava.com/activities/6088636539)
-- [Caminhada matinal](https://strava.com/activities/6088636674)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
