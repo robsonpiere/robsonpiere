@@ -43,6 +43,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Invillia Running Finalizado 🙌](https://strava.com/activities/6278364417)
+- [Desafio Brou Virtual 1000km Finalizado](https://strava.com/activities/6274420218)
 - [Pedal do Parque Alagoas](https://strava.com/activities/6269560937)
 - [Invillia Running #10](https://strava.com/activities/6262126501)
 - [Invillia Running #9](https://strava.com/activities/6257053529)
@@ -51,8 +53,6 @@
 - [Invillia Running - #6](https://strava.com/activities/6228747259)
 - [Invillia Running - #5](https://strava.com/activities/6219615209)
 - [Invillia Running - #4](https://strava.com/activities/6210140959)
-- [Invillia Running -  #3](https://strava.com/activities/6205637651)
-- [Invillia Running - #2](https://strava.com/activities/6201803964)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
