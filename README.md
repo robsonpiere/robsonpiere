@@ -42,6 +42,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Vamos a pé que é &quot;pertin&quot;](https://strava.com/activities/6438271380)
 - [Caminhada matinal](https://strava.com/activities/6406186636)
 - [Retomando as atividades.](https://strava.com/activities/6381986858)
 - [Pedalada matinal](https://strava.com/activities/6301209210)
@@ -51,7 +52,6 @@
 - [Invillia Running #10](https://strava.com/activities/6262126501)
 - [Invillia Running #9](https://strava.com/activities/6257053529)
 - [Invillia Running - #8](https://strava.com/activities/6237856135)
-- [Invillia Running - #7](https://strava.com/activities/6234328805)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
