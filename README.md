@@ -42,6 +42,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Tirando a ferrugem 🦿](https://strava.com/activities/6542449121)
 - [Caminhada ao entardecer](https://strava.com/activities/6468794740)
 - [Vamos a pé que é &quot;pertin&quot;](https://strava.com/activities/6438271380)
 - [Caminhada matinal](https://strava.com/activities/6406186636)
@@ -51,7 +52,6 @@
 - [Desafio Brou Virtual 1000km Finalizado](https://strava.com/activities/6274420218)
 - [Pedal do Parque Alagoas](https://strava.com/activities/6269560937)
 - [Invillia Running #10](https://strava.com/activities/6262126501)
-- [Invillia Running #9](https://strava.com/activities/6257053529)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
