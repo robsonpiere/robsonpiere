@@ -42,6 +42,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Caminhada matinal](https://strava.com/activities/6583962706)
 - [Natação na hora do almoço](https://strava.com/activities/6570462363)
 - [Pedal fotógrafico](https://strava.com/activities/6569617501)
 - [Bora aproveitar o feriado 😬](https://strava.com/activities/6552555646)
@@ -51,7 +52,6 @@
 - [Caminhada matinal](https://strava.com/activities/6406186636)
 - [Retomando as atividades.](https://strava.com/activities/6381986858)
 - [Pedalada matinal](https://strava.com/activities/6301209210)
-- [Invillia Running Finalizado 🙌](https://strava.com/activities/6278364417)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
