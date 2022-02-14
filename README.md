@@ -42,6 +42,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Pedalada matinal &lpar;33 KM&rpar;](https://strava.com/activities/6681158676)
+- [Caminhada matinal](https://strava.com/activities/6676338109)
 - [Testando o pulmão pós covid](https://strava.com/activities/6636120381)
 - [Caminhada matinal](https://strava.com/activities/6583962706)
 - [Natação na hora do almoço](https://strava.com/activities/6570462363)
@@ -50,8 +52,6 @@
 - [Tirando a ferrugem 🦿](https://strava.com/activities/6542449121)
 - [Caminhada ao entardecer](https://strava.com/activities/6468794740)
 - [Vamos a pé que é &quot;pertin&quot;](https://strava.com/activities/6438271380)
-- [Caminhada matinal](https://strava.com/activities/6406186636)
-- [Retomando as atividades.](https://strava.com/activities/6381986858)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
