@@ -42,6 +42,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Trilha com pedal do cabral](https://strava.com/activities/6746680040)
 - [Pedalada matinal](https://strava.com/activities/6730386078)
 - [Pedal de leve](https://strava.com/activities/6695753872)
 - [Caminhada na hora do almoço](https://strava.com/activities/6687434449)
@@ -51,7 +52,6 @@
 - [Caminhada matinal](https://strava.com/activities/6583962706)
 - [Natação na hora do almoço](https://strava.com/activities/6570462363)
 - [Pedal fotógrafico](https://strava.com/activities/6569617501)
-- [Bora aproveitar o feriado 😬](https://strava.com/activities/6552555646)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
