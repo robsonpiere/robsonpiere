@@ -42,6 +42,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Natação vespertina](https://strava.com/activities/6754306129)
 - [Trilha com pedal do cabral](https://strava.com/activities/6746680040)
 - [Pedalada matinal](https://strava.com/activities/6730386078)
 - [Pedal de leve](https://strava.com/activities/6695753872)
@@ -51,7 +52,6 @@
 - [Testando o pulmão pós covid](https://strava.com/activities/6636120381)
 - [Caminhada matinal](https://strava.com/activities/6583962706)
 - [Natação na hora do almoço](https://strava.com/activities/6570462363)
-- [Pedal fotógrafico](https://strava.com/activities/6569617501)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
