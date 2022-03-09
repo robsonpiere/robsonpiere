@@ -42,6 +42,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [22 %](https://strava.com/activities/6794826317)
 - [Caminhada matinal](https://strava.com/activities/6781441943)
 - [16%](https://strava.com/activities/6776244203)
 - [6%](https://strava.com/activities/6765773746)
@@ -51,7 +52,6 @@
 - [Pedalada matinal](https://strava.com/activities/6730386078)
 - [Pedal de leve](https://strava.com/activities/6695753872)
 - [Caminhada na hora do almoço](https://strava.com/activities/6687434449)
-- [Pedalada matinal &lpar;33 KM&rpar;](https://strava.com/activities/6681158676)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
