@@ -42,6 +42,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [71 %](https://strava.com/activities/6877984358)
 - [61 %](https://strava.com/activities/6867369548)
 - [51%](https://strava.com/activities/6854305053)
 - [41 %](https://strava.com/activities/6832052661)
@@ -51,7 +52,6 @@
 - [Caminhada matinal](https://strava.com/activities/6781441943)
 - [16%](https://strava.com/activities/6776244203)
 - [6%](https://strava.com/activities/6765773746)
-- [Teste Amazfit band](https://strava.com/activities/6762360292)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
