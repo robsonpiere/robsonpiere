@@ -42,6 +42,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [93%](https://strava.com/activities/6899088714)
 - [84 % - Vento, fotos e caldo de cana 📸🥤](https://strava.com/activities/6884999583)
 - [71 %](https://strava.com/activities/6877984358)
 - [61 %](https://strava.com/activities/6867369548)
@@ -51,7 +52,6 @@
 - [Tentando ir pela sombra 🥵](https://strava.com/activities/6803104959)
 - [22 %](https://strava.com/activities/6794826317)
 - [Caminhada matinal](https://strava.com/activities/6781441943)
-- [16%](https://strava.com/activities/6776244203)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
