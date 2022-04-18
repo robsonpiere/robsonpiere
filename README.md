@@ -42,6 +42,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Caminhada com música ao vivo](https://strava.com/activities/6993908085)
 - [Circuito todo mundo vai](https://strava.com/activities/6925098168)
 - [Desafio brou 500km concluído](https://strava.com/activities/6909204916)
 - [93%](https://strava.com/activities/6899088714)
@@ -51,7 +52,6 @@
 - [51%](https://strava.com/activities/6854305053)
 - [41 %](https://strava.com/activities/6832052661)
 - [35 %](https://strava.com/activities/6825539319)
-- [Tentando ir pela sombra 🥵](https://strava.com/activities/6803104959)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
