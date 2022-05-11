@@ -42,6 +42,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Atividade ao entardecer](https://strava.com/activities/7122066959)
 - [Trilha 1 em peso!!](https://strava.com/activities/7071177152)
 - [Me disseram que XCO era &quot;Churrasco&quot; e eu acreditei](https://strava.com/activities/7069671963)
 - [Partiu XCO do Zé Arnaldo](https://strava.com/activities/7069331679)
@@ -51,7 +52,6 @@
 - [Circuito todo mundo vai](https://strava.com/activities/6925098168)
 - [Desafio brou 500km concluído](https://strava.com/activities/6909204916)
 - [93%](https://strava.com/activities/6899088714)
-- [84 % - Vento, fotos e caldo de cana 📸🥤](https://strava.com/activities/6884999583)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
