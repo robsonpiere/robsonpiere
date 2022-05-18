@@ -42,6 +42,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Corrida noturna](https://strava.com/activities/7154934428)
+- [Atividade ao entardecer](https://strava.com/activities/7154934389)
 - [Atividade ao entardecer](https://strava.com/activities/7133338578)
 - [Atividade ao entardecer](https://strava.com/activities/7122066959)
 - [Trilha 1 em peso!!](https://strava.com/activities/7071177152)
@@ -50,8 +52,6 @@
 - [Voltando com a Bike 😬](https://strava.com/activities/7064841705)
 - [Fui buscar a bike 🚶‍♂️](https://strava.com/activities/7064706182)
 - [Caminhada com música ao vivo](https://strava.com/activities/6993908085)
-- [Circuito todo mundo vai](https://strava.com/activities/6925098168)
-- [Desafio brou 500km concluído](https://strava.com/activities/6909204916)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
