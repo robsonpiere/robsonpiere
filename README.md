@@ -42,6 +42,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Atividade ao entardecer](https://strava.com/activities/7203072246)
 - [Atividade ao entardecer](https://strava.com/activities/7198127240)
 - [Atividade ao entardecer](https://strava.com/activities/7198127118)
 - [Atividade ao entardecer](https://strava.com/activities/7165922630)
@@ -51,7 +52,6 @@
 - [Atividade ao entardecer](https://strava.com/activities/7122066959)
 - [Trilha 1 em peso!!](https://strava.com/activities/7071177152)
 - [Me disseram que XCO era &quot;Churrasco&quot; e eu acreditei](https://strava.com/activities/7069671963)
-- [Partiu XCO do Zé Arnaldo](https://strava.com/activities/7069331679)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
