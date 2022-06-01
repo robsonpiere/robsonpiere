@@ -42,6 +42,9 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Atividade ao entardecer](https://strava.com/activities/7235037162)
+- [Corrida noturna](https://strava.com/activities/7229632438)
+- [Atividade ao entardecer](https://strava.com/activities/7229520908)
 - [Atividade ao entardecer](https://strava.com/activities/7215392623)
 - [Atividade ao entardecer](https://strava.com/activities/7203072246)
 - [Atividade ao entardecer](https://strava.com/activities/7198127240)
@@ -49,9 +52,6 @@
 - [Atividade ao entardecer](https://strava.com/activities/7165922630)
 - [Corrida noturna](https://strava.com/activities/7154934428)
 - [Atividade ao entardecer](https://strava.com/activities/7154934389)
-- [Atividade ao entardecer](https://strava.com/activities/7133338578)
-- [Atividade ao entardecer](https://strava.com/activities/7122066959)
-- [Trilha 1 em peso!!](https://strava.com/activities/7071177152)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
