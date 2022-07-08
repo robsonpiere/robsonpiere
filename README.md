@@ -1,21 +1,19 @@
 ## Hi, I'm Robson Piere ! <img src="images/giphy.gif" width="15px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsonpiere/)](https://www.linkedin.com/in/robsonpiere/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&labelColor=0088cc&logo=telegram&logoColor=fff&link=https://t.me/robsonpiere)](https://t.me/robsonpiere)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/robsonpiere)](https://twitter.com/robsonpiere)
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&labelColor=black&logo=dev.to&logoColor=white&link=https://dev.to/robsonpiere)](https://dev.to/robsonpiere)
 [![Stack Exchange Badge](https://img.shields.io/badge/-Stack_exchange-green?style=for-the-badge&logo=stackexchange&color=ef8236&link=https://stackexchange.com/users/12017805/robson-piere?tab=accounts)](https://stackexchange.com/users/12017805/robson-piere?tab=accounts)
-[![Strava Badge](https://img.shields.io/badge/-Strava-fc5200?style=for-the-badge&labelColor=fc5200&logo=strava&logoColor=white&link=https://www.strava.com/athletes/35299327)](https://www.strava.com/athletes/robson-piere)
 
 ---
 
 ### About me ###
 
-- 👨‍💻 I am currently Working as Software Engineer at [Invillia](https://invillia.com/) and OLXbr, developing internal solutions, integrations, ETL's , automations and working on the definition of software architecture and environment.
+- 👨‍💻 I am currently Working as Software Engineer, developing internal solutions, integrations, ETL's , automations and working on the definition of software architecture and environment.
 - I currently work with
-    - Python
-    - Apache Airflow
-    - Aws
+    - Python/Js/Java/Kotlin
+    - Apache Airflow/Kafka/Avro
+    - Aws (sns,sqs,lambda,rds, terraform....)
     - Postgres
 - 🤓 I’m currently learning:
     - AI, ML and Big Data.
