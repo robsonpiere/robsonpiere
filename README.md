@@ -20,11 +20,10 @@
 - 🤓 I’m currently learning:
     - AI, ML and Big Data.
 - ⚡ Fun facts:
-  - [I have a rabbit :rabbit:](https://www.instagram.com/p/BYv8-tLj2kh/) 
-  - [I like running and cycling 🚴‍♂️ 🏃](https://www.strava.com/athletes/35299327)
+  - I have a rabbit :rabbit:
+  - I like running and cycling 🚴‍♂️ 🏃
+  
 
-
----
 
 ### Posts ###
 
