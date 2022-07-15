@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Treinamento com peso ao entardecer](https://strava.com/activities/7470809288)
 - [Treino ao entardecer](https://strava.com/activities/7427738873)
 - [Treino ao entardecer](https://strava.com/activities/7416661691)
 - [Testando Amazfit GTS 2 mini &lpar;2022&rpar;](https://strava.com/activities/7409150039)
@@ -48,7 +49,6 @@
 - [Conhecendo a trilha 2](https://strava.com/activities/7328897848)
 - [Treino na hora do almoço](https://strava.com/activities/7324458589)
 - [Treino matinal](https://strava.com/activities/7318604584)
-- [Corrida ao entardecer](https://strava.com/activities/7310431016)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
