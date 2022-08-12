@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Alvejado por uma pomba 🕊️💩](https://strava.com/activities/7614517128)
 - [Pedalada matinal](https://strava.com/activities/7608270527)
 - [Pedalada matinal](https://strava.com/activities/7602966230)
 - [The return of 🌞](https://strava.com/activities/7599184883)
@@ -48,7 +49,6 @@
 - [Pedalada matinal](https://strava.com/activities/7554106215)
 - [Pedalada matinal](https://strava.com/activities/7521562411)
 - [Passeio e caldo de cana com abacaxi e Limão 🥤🍋🍍](https://strava.com/activities/7515815964)
-- [Today was very cold 🥶](https://strava.com/activities/7498706006)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
