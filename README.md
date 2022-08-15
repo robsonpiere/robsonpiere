@@ -39,6 +39,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Treinamento com peso matinal](https://strava.com/activities/7637194219)
+- [Caminhada matinal](https://strava.com/activities/7637193941)
 - [Alvejado por uma pomba 🕊️💩](https://strava.com/activities/7614517128)
 - [Pedalada matinal](https://strava.com/activities/7608270527)
 - [Pedalada matinal](https://strava.com/activities/7602966230)
@@ -47,8 +49,6 @@
 - [Contra o vento....](https://strava.com/activities/7563674871)
 - [Pedal na dimensão espelhada](https://strava.com/activities/7559618383)
 - [Pedalada matinal](https://strava.com/activities/7554106215)
-- [Pedalada matinal](https://strava.com/activities/7521562411)
-- [Passeio e caldo de cana com abacaxi e Limão 🥤🍋🍍](https://strava.com/activities/7515815964)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
