@@ -39,6 +39,9 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Caminhada vespertina](https://strava.com/activities/7814084455)
+- [Trilha para praia do forno](https://strava.com/activities/7814084278)
+- [Caminhada para despertar](https://strava.com/activities/7811924849)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7777717041)
 - [Caminhada vespertina](https://strava.com/activities/7772393071)
 - [Passeio revendo os brothers](https://strava.com/activities/7770362765)
@@ -46,9 +49,6 @@
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7761425746)
 - [Caminhada matinal](https://strava.com/activities/7752618302)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7728409008)
-- [Treinamento com peso ao entardecer](https://strava.com/activities/7723166085)
-- [Caminhada ao entardecer](https://strava.com/activities/7711398043)
-- [Treinamento com peso ao entardecer](https://strava.com/activities/7695579674)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
