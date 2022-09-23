@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Treinamento com peso ao entardecer](https://strava.com/activities/7851973114)
 - [Praia das dunas até a praia do forte.](https://strava.com/activities/7843316073)
 - [Búzios, Trilha até Azeda e Azedinha](https://strava.com/activities/7840942389)
 - [Caminhada na hora do almoço](https://strava.com/activities/7830235274)
@@ -48,7 +49,6 @@
 - [Caminhada para despertar](https://strava.com/activities/7811924849)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7777717041)
 - [Caminhada vespertina](https://strava.com/activities/7772393071)
-- [Passeio revendo os brothers](https://strava.com/activities/7770362765)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
