@@ -64,9 +64,7 @@
 
 <details>
   <summary><b>Wakatime stats</b>  (click here)</summary>
-  <img align="center" title="Wakatime dashboard" alt="Wakatime dashboard" src="https://wakatime.com/share/@robsonpiere/0a3558b3-838e-4e72-b40f-18bcf3f64810.svg" />
+  <img align="center" title="Wakatime dashboard" alt="Wakatime dashboard" src="https://wakatime.com/share/@robsonpiere/f3f9a322-cead-4766-a1b7-f682845a07fc.svg" />
 </details>
-
-
 
 ![](https://komarev.com/ghpvc/?username=robsonpiere&label=PROFILE+VIEWS&&style=flat-square)
