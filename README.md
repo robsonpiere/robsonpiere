@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Treinamento com peso ao entardecer](https://strava.com/activities/7923348660)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7913470087)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7907798015)
 - [Caminhada matinal](https://strava.com/activities/7899455942)
@@ -48,7 +49,6 @@
 - [Batendo perna pelo bairro](https://strava.com/activities/7861857425)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7856612074)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7851973114)
-- [Praia das dunas até a praia do forte.](https://strava.com/activities/7843316073)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
