@@ -39,6 +39,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Passeio em família 🚴🚴‍♀️🚴‍♂️](https://strava.com/activities/7932415981)
+- [Treinamento com peso vespertino](https://strava.com/activities/7927353754)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7923348660)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7913470087)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7907798015)
@@ -47,8 +49,6 @@
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7877274935)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7872419089)
 - [Batendo perna pelo bairro](https://strava.com/activities/7861857425)
-- [Treinamento com peso ao entardecer](https://strava.com/activities/7856612074)
-- [Treinamento com peso ao entardecer](https://strava.com/activities/7851973114)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
