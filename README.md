@@ -39,16 +39,16 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Invillia Running 2022 #6🚶‍♂️](https://strava.com/activities/8011575592)
+- [Missão abortada olha chuvaaaa](https://strava.com/activities/8010142550)
+- [Invillia Running #5 🚴‍♂️](https://strava.com/activities/8008809017)
+- [Participando da ação social Brou](https://strava.com/activities/8008808100)
+- [Invillia Running #4 🚴‍♂️](https://strava.com/activities/8001744391)
+- [Invillia Running 2022 #3 🏃](https://strava.com/activities/7999042185)
+- [Treinamento com peso ao entardecer](https://strava.com/activities/7999042051)
+- [Invillia Running 2022 #2 🚶‍♂️](https://strava.com/activities/7997659028)
+- [Invillia Running 2022 #1 🚴‍♂️](https://strava.com/activities/7997031449)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/7995317241)
-- [Treinamento com peso ao entardecer](https://strava.com/activities/7980767293)
-- [Caminhada vespertina](https://strava.com/activities/7958974225)
-- [Ao som das cigarras 🪲](https://strava.com/activities/7951535827)
-- [Treinamento com peso ao entardecer](https://strava.com/activities/7949422500)
-- [Treinamento com peso ao entardecer](https://strava.com/activities/7943980269)
-- [Passeio em família 🚴🚴‍♀️🚴‍♂️](https://strava.com/activities/7932415981)
-- [Treinamento com peso vespertino](https://strava.com/activities/7927353754)
-- [Treinamento com peso ao entardecer](https://strava.com/activities/7923348660)
-- [Treinamento com peso ao entardecer](https://strava.com/activities/7913470087)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
