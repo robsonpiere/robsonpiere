@@ -39,16 +39,16 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Invillia Running #19 🚴‍♂️ 🌧️🌧️🌧️](https://strava.com/activities/8047128296)
+- [Invillia Running 2022 #18🚶🏾‍♂️](https://strava.com/activities/8042488996)
+- [Invillia Running 2022 #17🚶🏾‍♂️](https://strava.com/activities/8039238716)
+- [Invillia Running 2022 #16🏃](https://strava.com/activities/8039321118)
+- [Invillia Running #15 🚴‍♂️](https://strava.com/activities/8037116667)
+- [Treinamento com peso ao entardecer](https://strava.com/activities/8033988609)
+- [Invillia Running 2022 #14🚶🏾‍♂️](https://strava.com/activities/8032830919)
 - [Invillia Running 2022 #13🏃](https://strava.com/activities/8029898838)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/8029898632)
 - [Invillia Running 2022 #12🚶‍♂️](https://strava.com/activities/8027948509)
-- [Invillia Running #11 🚴‍♂️ 😴](https://strava.com/activities/8026641565)
-- [Treinamento com peso ao entardecer](https://strava.com/activities/8024958428)
-- [Invillia Running 2022 #10 🚶‍♂️](https://strava.com/activities/8022985934)
-- [Invillia Running #9 🚴‍♂️](https://strava.com/activities/8021564992)
-- [Invillia Running 2022 #8🚶‍♂️&lpar;parte 2&rpar;](https://strava.com/activities/8017720484)
-- [Invillia Running 2022 #8🚶‍♂️&lpar;parte 1&rpar;](https://strava.com/activities/8017720148)
-- [Invillia Running 2022 #7 🏃](https://strava.com/activities/8015826794)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
