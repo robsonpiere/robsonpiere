@@ -39,16 +39,16 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Invillia Running #34🚴‍♂️](https://strava.com/activities/8091579424)
+- [Invillia Running 2022 #33🏃](https://strava.com/activities/8089834707)
+- [Invillia Running 2022 #32🚶🏾‍♂️](https://strava.com/activities/8087679329)
+- [Invillia Running 2022 #31🏃](https://strava.com/activities/8084871475)
+- [Treinamento com peso ao entardecer 🏋️🏋🏽‍♂️](https://strava.com/activities/8084871324)
+- [Invillia Running 2022 #30🚶🏾‍♂️](https://strava.com/activities/8082836702)
 - [Invillia Running #29 🚴‍♂️](https://strava.com/activities/8081477011)
 - [Invillia Running 2022 #28🏃](https://strava.com/activities/8078779640)
-- [Treinamento com peso matinal](https://strava.com/activities/8078779368)
+- [Treinamento com peso matinal 🦵🦿🐔](https://strava.com/activities/8078779368)
 - [Invillia Running 2022 #27🚶🏾‍♂️](https://strava.com/activities/8077272447)
-- [Invillia Running 2022 #26🚶🏾‍♂️](https://strava.com/activities/8074566429)
-- [Invillia Running #25 🚴‍♂️](https://strava.com/activities/8072084818)
-- [Invillia Running 2022 #24🚶🏾‍♂️](https://strava.com/activities/8069554273)
-- [Invillia Running 2022 #23🏃](https://strava.com/activities/8069554151)
-- [Treinamento com peso ao entardecer](https://strava.com/activities/8069554056)
-- [Invillia Running 2022 #22🏃](https://strava.com/activities/8065331073)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
