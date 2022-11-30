@@ -39,6 +39,9 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Teste do GTR 4 - Treino de força 🏋️](https://strava.com/activities/8186824132)
+- [Treinamento com peso ao entardecer](https://strava.com/activities/8186823968)
+- [Finalizado desafio / teste do novo amazfit](https://strava.com/activities/8179990170)
 - [Olha o sol 🌅](https://strava.com/activities/8175601361)
 - [Hoje teve vento 🌬️💨💨💨💨](https://strava.com/activities/8170908508)
 - [Hoje é a &quot;Bike&quot; Friday 🖤 🚴🏽‍♂️](https://strava.com/activities/8165726681)
@@ -46,9 +49,6 @@
 - [Treinamento com peso ao entardecer 💪💪](https://strava.com/activities/8160884686)
 - [Susto no pulmão 🫁](https://strava.com/activities/8156980217)
 - [Treinamento com peso ao entardecer 🏋️🏋🏽‍♂️](https://strava.com/activities/8151358683)
-- [Pedalada matinal](https://strava.com/activities/8139609960)
-- [Invillia Running 2022 #Finalizado🏃](https://strava.com/activities/8131140608)
-- [Invillia Running #45 🚴‍♂️](https://strava.com/activities/8130289542)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
