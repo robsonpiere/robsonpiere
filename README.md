@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Treinamento com peso  🦵🦿 😪](https://strava.com/activities/8232199215)
 - [Treinamento com peso na hora do almoço](https://strava.com/activities/8202940375)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/8195726835)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/8195726573)
@@ -48,7 +49,6 @@
 - [Olha o sol 🌅](https://strava.com/activities/8175601361)
 - [Hoje teve vento 🌬️💨💨💨💨](https://strava.com/activities/8170908508)
 - [Hoje é a &quot;Bike&quot; Friday 🖤 🚴🏽‍♂️](https://strava.com/activities/8165726681)
-- [Pré Jogo 🚴🇧🇷](https://strava.com/activities/8161480384)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
