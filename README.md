@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Treinamento com peso ao entardecer 🦿🦵](https://strava.com/activities/8249833810)
 - [Treino ao entardecer 💪🦾](https://strava.com/activities/8245742738)
 - [Treinamento com peso ao entardecer 🏋️](https://strava.com/activities/8241655866)
 - [Treinamento com peso  🦵🦿 😪](https://strava.com/activities/8232199215)
@@ -48,7 +49,6 @@
 - [Teste do GTR 4 - Treino de força 🏋️](https://strava.com/activities/8186824132)
 - [Treinamento com peso ao entardecer](https://strava.com/activities/8186823968)
 - [Finalizado desafio / teste do novo amazfit](https://strava.com/activities/8179990170)
-- [Olha o sol 🌅](https://strava.com/activities/8175601361)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
