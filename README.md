@@ -59,7 +59,7 @@
 <details>
     <summary><b>Github Stats</b>   (click here)</summary>
     <img align="center" title="Robson github stats" alt="Robson github stats" src="https://github-readme-stats.vercel.app/api?username=robsonpiere&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=false" />
-    <img align="center" title="Top Langs" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonpiere&layout=compact&theme=vue-dark&langs_count=8&custom_title=Top Languages (public only)&hide=jupyter%20notebook" />
+    <img align="center" title="Top Langs" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonpiere&layout=compact&theme=vue-dark&langs_count=8&custom_title=Top%20Languages%20(public%20only)&hide=jupyter%20notebook" />
 </details>
 
 <details>
