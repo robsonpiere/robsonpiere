@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Minha contribuição nas 24 horas de pedal pelo Brou](https://strava.com/activities/8309338717)
 - [Treinamento com peso matinal](https://strava.com/activities/8297763254)
 - [Treinamento com peso matinal](https://strava.com/activities/8293189341)
 - [Caminhada matinal](https://strava.com/activities/8281409188)
@@ -48,7 +49,6 @@
 - [Treinamento com peso ao entardecer 🦿🦵](https://strava.com/activities/8249833810)
 - [Treino ao entardecer 💪🦾](https://strava.com/activities/8245742738)
 - [Treinamento com peso ao entardecer 🏋️](https://strava.com/activities/8241655866)
-- [Treinamento com peso  🦵🦿 😪](https://strava.com/activities/8232199215)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
