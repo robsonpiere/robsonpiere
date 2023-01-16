@@ -39,6 +39,9 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Starting 2023](https://strava.com/activities/8396505767)
+- [Caminhada com ela](https://strava.com/activities/8396505620)
+- [Bike ajustada para 2023](https://strava.com/activities/8392572016)
 - [Boliche 🎳](https://strava.com/activities/8361065587)
 - [Treinamento com peso vespertino](https://strava.com/activities/8361065542)
 - [Treinamento com peso 🦿🦵](https://strava.com/activities/8334019850)
@@ -46,9 +49,6 @@
 - [Treinamento com peso matinal](https://strava.com/activities/8325403611)
 - [Minha contribuição nas 24 horas de pedal pelo Brou](https://strava.com/activities/8309338717)
 - [Treinamento com peso matinal](https://strava.com/activities/8297763254)
-- [Treinamento com peso matinal](https://strava.com/activities/8293189341)
-- [Caminhada matinal](https://strava.com/activities/8281409188)
-- [Treinamento com peso ao entardecer 🦵🦿](https://strava.com/activities/8280363592)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
