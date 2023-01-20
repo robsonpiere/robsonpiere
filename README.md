@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Natação na hora do almoço](https://strava.com/activities/8421044718)
 - [Pedalada matinal](https://strava.com/activities/8411049679)
 - [Treinamento com peso ao entardecer 💪](https://strava.com/activities/8411029546)
 - [Treinamento com peso matinal 🏋️](https://strava.com/activities/8402957980)
@@ -48,7 +49,6 @@
 - [Boliche 🎳](https://strava.com/activities/8361065587)
 - [Treinamento com peso vespertino](https://strava.com/activities/8361065542)
 - [Treinamento com peso 🦿🦵](https://strava.com/activities/8334019850)
-- [Caminhada matinal](https://strava.com/activities/8330929120)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
