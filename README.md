@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Natação matinal](https://strava.com/activities/10404265434)
 - [Caminhada ao entardecer](https://strava.com/activities/10402044210)
 - [Natação matinal](https://strava.com/activities/10379227700)
 - [Natação matinal 1000m](https://strava.com/activities/10368006013)
@@ -48,7 +49,6 @@
 - [Natação matinal - 1040m](https://strava.com/activities/10295188075)
 - [Natação matinal](https://strava.com/activities/10267492928)
 - [Natação matinal](https://strava.com/activities/10256478775)
-- [Treinamento com peso na hora do almoço](https://strava.com/activities/10256478751)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
