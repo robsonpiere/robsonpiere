@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Gratidão 🙏](https://strava.com/activities/12406830508)
 - [Volta natação](https://strava.com/activities/12391233906)
 - [Natação matinal](https://strava.com/activities/12390926608)
 - [Ida natação](https://strava.com/activities/12390395146)
@@ -48,7 +49,6 @@
 - [Pedalada matinal](https://strava.com/activities/12373170263)
 - [Pedalada matinal](https://strava.com/activities/12365020331)
 - [Corrida Mart Minas](https://strava.com/activities/12357608951)
-- [Corrida matinal](https://strava.com/activities/12339615846)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
