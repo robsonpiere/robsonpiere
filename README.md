@@ -39,6 +39,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Pedalada da tarde](https://strava.com/activities/12518356850)
+- [Caminhada vespertina](https://strava.com/activities/12518263471)
 - [Caminhada matinal](https://strava.com/activities/12507722816)
 - [Volta natação](https://strava.com/activities/12491624145)
 - [Natação matinal](https://strava.com/activities/12491086178)
@@ -47,8 +49,6 @@
 - [Pedalada de mountain bike matinal](https://strava.com/activities/12449807176)
 - [Natação matinal](https://strava.com/activities/12449474928)
 - [Pedalada de mountain bike matinal](https://strava.com/activities/12448961876)
-- [Back](https://strava.com/activities/12432195346)
-- [Swimming class 840m](https://strava.com/activities/12431825559)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
