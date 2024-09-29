@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Deu ruim](https://strava.com/activities/12521918279)
 - [Pedalada da tarde](https://strava.com/activities/12518356850)
 - [Caminhada vespertina](https://strava.com/activities/12518263471)
 - [Caminhada matinal](https://strava.com/activities/12507722816)
@@ -48,7 +49,6 @@
 - [Pedalada de mountain bike matinal](https://strava.com/activities/12466772797)
 - [Pedalada de mountain bike matinal](https://strava.com/activities/12449807176)
 - [Natação matinal](https://strava.com/activities/12449474928)
-- [Pedalada de mountain bike matinal](https://strava.com/activities/12448961876)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
