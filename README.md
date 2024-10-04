@@ -39,6 +39,9 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Ciclismo con ritorno al nuoto](https://strava.com/activities/12564289578)
+- [Allenamento di nuoto 🇮🇹 🏊🏼](https://strava.com/activities/12564289571)
+- [Ciclismo per il nuoto](https://strava.com/activities/12564289574)
 - [retour de la natation](https://strava.com/activities/12547585119)
 - [entraînement à la natation](https://strava.com/activities/12547169769)
 - [Aller à la piscine](https://strava.com/activities/12546677619)
@@ -46,9 +49,6 @@
 - [Deu ruim](https://strava.com/activities/12521918279)
 - [Pedalada da tarde](https://strava.com/activities/12518356850)
 - [Caminhada vespertina](https://strava.com/activities/12518263471)
-- [Caminhada matinal](https://strava.com/activities/12507722816)
-- [Volta natação](https://strava.com/activities/12491624145)
-- [Natação matinal](https://strava.com/activities/12491086178)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
