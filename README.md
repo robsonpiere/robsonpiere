@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Corrida matinal](https://strava.com/activities/13832392199)
 - [Pedalada matinal](https://strava.com/activities/13821053073)
 - [Caminhada matinal](https://strava.com/activities/13813783751)
 - [Treinamento com peso matinal](https://strava.com/activities/13812556534)
@@ -48,7 +49,6 @@
 - [Simulador de escada matinal](https://strava.com/activities/13794299522)
 - [Treinamento com peso matinal](https://strava.com/activities/13794132342)
 - [Pedalada de mountain bike matinal](https://strava.com/activities/13785217705)
-- [Pedalada de mountain bike matinal](https://strava.com/activities/13775958441)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
