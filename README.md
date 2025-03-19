@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Treino de tiro no craw](https://strava.com/activities/13916084669)
 - [Pedalada matinal](https://strava.com/activities/13887073327)
 - [Corrida matinal](https://strava.com/activities/13879215230)
 - [Treinamento com peso matinal](https://strava.com/activities/13878975442)
@@ -48,7 +49,6 @@
 - [Pedalada matinal](https://strava.com/activities/13821053073)
 - [Caminhada matinal](https://strava.com/activities/13813783751)
 - [Treinamento com peso matinal](https://strava.com/activities/13812556534)
-- [Retorno natação](https://strava.com/activities/13804520960)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
