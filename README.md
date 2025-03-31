@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Corrida Supermercado BH](https://strava.com/activities/14028928839)
 - [Natação matinal](https://strava.com/activities/13934918472)
 - [Caminhada matinal](https://strava.com/activities/13925184308)
 - [Treino de tiro no craw](https://strava.com/activities/13916084669)
@@ -48,7 +49,6 @@
 - [Natação matinal - 900m](https://strava.com/activities/13869860402)
 - [Natação matinal - 1000m](https://strava.com/activities/13850925874)
 - [Corrida matinal](https://strava.com/activities/13832392199)
-- [Pedalada matinal](https://strava.com/activities/13821053073)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
