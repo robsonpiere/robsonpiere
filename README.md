@@ -39,16 +39,16 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
-- [Volta natação](https://strava.com/activities/14136015893)
-- [Natação matinal - 920m](https://strava.com/activities/14135567664)
-- [Ida natação](https://strava.com/activities/14135013951)
-- [Volta natação](https://strava.com/activities/14047644365)
-- [Natação matinal](https://strava.com/activities/14047644349)
-- [Ida natação](https://strava.com/activities/14046647534)
-- [Corrida Supermercado BH](https://strava.com/activities/14028928839)
-- [Natação matinal](https://strava.com/activities/13934918472)
-- [Caminhada matinal](https://strava.com/activities/13925184308)
-- [Treino de tiro no craw](https://strava.com/activities/13916084669)
+- [Caminhada na hora do almoço](https://strava.com/activities/14679201173)
+- [Caminhada noturna](https://strava.com/activities/14626507770)
+- [Natação na hora do almoço](https://strava.com/activities/14622429242)
+- [Natação matinal - 880m](https://strava.com/activities/14465788799)
+- [Natação matinal](https://strava.com/activities/14414579325)
+- [Pedalada de mountain bike matinal](https://strava.com/activities/14328628074)
+- [Natação matinal 960 m](https://strava.com/activities/14328628043)
+- [Pedalada de mountain bike matinal](https://strava.com/activities/14328628065)
+- [Corrrida Super Nosso](https://strava.com/activities/14301579120)
+- [Volta natação](https://strava.com/activities/14271827082)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
