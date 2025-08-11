@@ -39,6 +39,9 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Ela dormiu 😅](https://strava.com/activities/15415369436)
+- [Pedalando com a pequena](https://strava.com/activities/15415164198)
+- [Corrida Jornal o TEMPO](https://strava.com/activities/15409860725)
 - [Boníssima Run](https://strava.com/activities/15251676780)
 - [Corrida ao entardecer](https://strava.com/activities/14978102554)
 - [Corrida ao entardecer](https://strava.com/activities/14926718751)
@@ -46,9 +49,6 @@
 - [Natação matinal - 1080 metros](https://strava.com/activities/14899669196)
 - [🪦 roda dianteira](https://strava.com/activities/14722539796)
 - [Natação matinal - 1080 m](https://strava.com/activities/14703390244)
-- [Caminhada na hora do almoço](https://strava.com/activities/14679201173)
-- [Caminhada noturna](https://strava.com/activities/14626507770)
-- [Natação na hora do almoço](https://strava.com/activities/14622429242)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
