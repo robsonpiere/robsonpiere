@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Corrida matinal](https://strava.com/activities/15726995276)
 - [Corrida Mart Minas](https://strava.com/activities/15647186056)
 - [Catchau](https://strava.com/activities/15555937739)
 - [Corrida SEST SENAT](https://strava.com/activities/15489106959)
@@ -48,7 +49,6 @@
 - [Corrida Jornal o TEMPO](https://strava.com/activities/15409860725)
 - [Boníssima Run](https://strava.com/activities/15251676780)
 - [Corrida ao entardecer](https://strava.com/activities/14978102554)
-- [Corrida ao entardecer](https://strava.com/activities/14926718751)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
