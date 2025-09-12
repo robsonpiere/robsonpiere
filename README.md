@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Esqueci como nadar 🤣](https://strava.com/activities/15773993813)
 - [Corrida matinal](https://strava.com/activities/15726995276)
 - [Corrida Mart Minas](https://strava.com/activities/15647186056)
 - [Catchau](https://strava.com/activities/15555937739)
@@ -48,7 +49,6 @@
 - [Pedalando com a pequena](https://strava.com/activities/15415164198)
 - [Corrida Jornal o TEMPO](https://strava.com/activities/15409860725)
 - [Boníssima Run](https://strava.com/activities/15251676780)
-- [Corrida ao entardecer](https://strava.com/activities/14978102554)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
