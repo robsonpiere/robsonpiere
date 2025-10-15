@@ -39,6 +39,8 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Atrasado, mas fui 🏊](https://strava.com/activities/16135602814)
+- [Passeio em família](https://strava.com/activities/16133785601)
 - [Corrida verdemar](https://strava.com/activities/15963318090)
 - [Esqueci como nadar 🤣](https://strava.com/activities/15773993813)
 - [Corrida matinal](https://strava.com/activities/15726995276)
@@ -47,8 +49,6 @@
 - [Corrida SEST SENAT](https://strava.com/activities/15489106959)
 - [After a long time 🚴‍♂️](https://strava.com/activities/15476746739)
 - [Ela dormiu 😅](https://strava.com/activities/15415369436)
-- [Pedalando com a pequena](https://strava.com/activities/15415164198)
-- [Corrida Jornal o TEMPO](https://strava.com/activities/15409860725)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
