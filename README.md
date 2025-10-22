@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Treino respiratório](https://strava.com/activities/16209123746)
 - [Avaliação natação outubro](https://strava.com/activities/16157708074)
 - [Pedalada local](https://strava.com/activities/16147152007)
 - [Atrasado, mas fui 🏊](https://strava.com/activities/16135602814)
@@ -48,7 +49,6 @@
 - [Corrida matinal](https://strava.com/activities/15726995276)
 - [Corrida Mart Minas](https://strava.com/activities/15647186056)
 - [Catchau](https://strava.com/activities/15555937739)
-- [Corrida SEST SENAT](https://strava.com/activities/15489106959)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
