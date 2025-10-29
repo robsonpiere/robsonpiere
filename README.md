@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Natação matinal](https://strava.com/activities/16279499234)
 - [Natação matinal](https://strava.com/activities/16230293784)
 - [Treino respiratório](https://strava.com/activities/16209123746)
 - [Avaliação natação outubro](https://strava.com/activities/16157708074)
@@ -48,7 +49,6 @@
 - [Corrida verdemar](https://strava.com/activities/15963318090)
 - [Esqueci como nadar 🤣](https://strava.com/activities/15773993813)
 - [Corrida matinal](https://strava.com/activities/15726995276)
-- [Corrida Mart Minas](https://strava.com/activities/15647186056)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
