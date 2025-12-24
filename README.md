@@ -39,6 +39,7 @@
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Penúltima do Ano](https://strava.com/activities/16818091710)
 - [Caminhada ao entardecer](https://strava.com/activities/16797701393)
 - [Natação matinal](https://strava.com/activities/16774689749)
 - [Natação matinal](https://strava.com/activities/16756156316)
@@ -48,7 +49,6 @@
 - [Caminhada no lago negro](https://strava.com/activities/16585340065)
 - [Pedalada de mountain bike matinal](https://strava.com/activities/16513066995)
 - [Natação matinal](https://strava.com/activities/16499811610)
-- [“Proclamação da bike Pública“](https://strava.com/activities/16463135722)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
