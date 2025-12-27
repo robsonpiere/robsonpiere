@@ -9,17 +9,15 @@
 
 ### About me ###
 
-- 👨‍💻 I am currently Working as Software Engineer, developing internal solutions, integrations, ETL's , automations and working on the definition of software architecture and environment.
-- I currently work with
-    - Python/Js/Java/Kotlin
-    - Apache Airflow/Kafka/Avro
-    - Aws (sns,sqs,lambda,rds, terraform....)
-    - Postgres
-- 🤓 I’m currently learning:
-    - AI, ML and Big Data.
-- ⚡ Fun facts:
-  - I have a rabbit :rabbit:
-  - I like running and cycling 🚴‍♂️ 🏃
+I am a software engineer with extensive experience in technology since 2012 and in software development since 2015. I hold a bachelor's degree in Information Systems and a graduate studies degree in Data Science/Big Data, both from PUC Minas.
+
+My expertise includes creating digital products, integrations, messaging systems, and microservices. I have extensive experience with various programming languages such as Kotlin, Java, JavaScript, Python, and PHP. Additionally, I am skilled in working with both relational and NoSQL databases.
+
+I have also developed a mobile application and configured server environments using tools like Terraform. My knowledge extends to cloud platforms such as AWS and Microsoft Azure, as well as technologies like Apache, Nginx, and IIS. I have experience as a full stack developer, handling both front-end and back-end development tasks.
+
+I'm certified in GitHub Actions
+
+I enjoy participating in meetups and sharing knowledge with the community. In my free time, I like to go for bike rides. 🚴🏽‍♂️😎
   
 
 
