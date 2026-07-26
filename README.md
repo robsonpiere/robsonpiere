@@ -42,6 +42,7 @@ I enjoy participating in meetups and sharing knowledge with the community. In my
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
+- [Pedalada ao entardecer](https://strava.com/activities/19464796213)
 - [Natação matinal](https://strava.com/activities/19306417071)
 - [Revezamento surpresa 🤣🏊🏊‍♀️](https://strava.com/activities/19240202426)
 - [Natação matinal](https://strava.com/activities/19148013353)
@@ -51,7 +52,6 @@ I enjoy participating in meetups and sharing knowledge with the community. In my
 - [Caminhada matinal](https://strava.com/activities/18796705856)
 - [Pedalada matinal](https://strava.com/activities/18781660995)
 - [Natação matinal - 920 m](https://strava.com/activities/18755004150)
-- [Corrida matinal](https://strava.com/activities/18740085809)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
