@@ -11,7 +11,7 @@ jobs:
      - name: Checkout
        uses: actions/checkout@v7
      - name: Update Devto
-       uses: gautamkrishnar/blog-post-workflow@master
+       uses: gautamkrishnar/blog-post-workflow@v1.9.7
        with:
          feed_list: ${{ secrets.DEVTO_FEED }}
          committer_username: ${{ secrets.COMMITER_USERNAME }}
@@ -20,7 +20,7 @@ jobs:
          commit_message: "Automatic update Dev.to posts list"
          max_post_count: 10
      - name: Update Strava
-       uses: gautamkrishnar/blog-post-workflow@master
+       uses: gautamkrishnar/blog-post-workflow@v1.9.7
        with:
          feed_list: ${{ secrets.STRAVA_FEED }}
          committer_username: ${{ secrets.COMMITER_USERNAME }}
