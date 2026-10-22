@@ -42,16 +42,16 @@ I enjoy participating in meetups and sharing knowledge with the community. In my
   <summary><b>Latest activities on Strava 🚴🏼‍♂️ 🏃🏼‍♂️</b> (click here)</summary>
   
 <!-- STRAVA-POST-LIST:START -->
-- [Desafio Fênix 🏊](https://strava.com/activities/19820695891)
-- [Natação matinal](https://strava.com/activities/19722626372)
-- [Natação matinal](https://strava.com/activities/19624301287)
-- [Caminhada vespertina](https://strava.com/activities/19576121774)
-- [Pedalada ao entardecer](https://strava.com/activities/19464796213)
-- [Natação matinal](https://strava.com/activities/19306417071)
-- [Revezamento surpresa 🤣🏊🏊‍♀️](https://strava.com/activities/19240202426)
-- [Natação matinal](https://strava.com/activities/19148013353)
-- [Natação matinal](https://strava.com/activities/19121109950)
-- [Treino de tiro](https://strava.com/activities/18969008046)
+- [Primeira volta na Pampulha](https://strava.com/activities/20525957341)
+- [Salto &amp; Tiro &amp; Medley &amp; Mergulho](https://strava.com/activities/20499968915)
+- [Treino de salto](https://strava.com/activities/20471477026)
+- [Corrida Mart Minas](https://strava.com/activities/20431579652)
+- [Natação matinal](https://strava.com/activities/20375393084)
+- [Corrida matinal](https://strava.com/activities/20334410670)
+- [Treino nado borboleta 🦋](https://strava.com/activities/20308027529)
+- [Corrida matinal](https://strava.com/activities/20293947162)
+- [Natação matinal](https://strava.com/activities/20278972814)
+- [Natação matinal](https://strava.com/activities/20114076629)
 <!-- STRAVA-POST-LIST:END -->
 </details>
 
